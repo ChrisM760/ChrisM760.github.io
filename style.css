@@ -18,6 +18,12 @@
     text-align: center;
 }
 
+.row div {
+    display: inline-block;
+    padding: 20px;
+}
+
 img {
     max-width: 200px;
+    border-radius: 50%;
 }
